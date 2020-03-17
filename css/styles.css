@@ -1,1 +1,16 @@
 @charset "UTF-8";
+
+body {
+	background-color: #9AD6F1;
+	color: #000000;
+	font-family: 'Poiret One', cursive;
+}
+
+.stars-background {
+	background-image: url("../images/pattern.jpg")
+}
+
+.my-navbar {
+	background-color: #9AD6F1;
+	font-family: 'Poiret One', cursive;
+}
